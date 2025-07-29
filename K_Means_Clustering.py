@@ -1,5 +1,4 @@
 # Author: Zachary Boster
-# Starting Date: Sunday 18th Semptember 2022
 # Implementation of K-Means Clustering
 
 import numpy as np
